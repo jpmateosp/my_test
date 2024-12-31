@@ -20,7 +20,7 @@ git commit -m "Add calculator script and unit tests"
 
 # Add the remote repository
 echo "Adding remote repository..."
-git remote add origin https://github.com/jpmateosp/my_test.git
+git remote add origin git@github.com:jpmateosp/my_test.git
 
 # Push changes to the remote repository
 echo "Pushing changes to remote repository..."
