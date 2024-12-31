@@ -28,3 +28,6 @@ git branch -M main
 git push -u origin main
 
 echo "All done!"
+
+#ssh-keygen -t ed25519 -C "imjpmp@gmail.com"
+
