@@ -1,0 +1,9 @@
+# Ignore all Bash script files
+*.sh
+
+
+# Ignore backup or temporary files created by editors
+*~
+*.bak
+*.tmp
+.DS_Store
